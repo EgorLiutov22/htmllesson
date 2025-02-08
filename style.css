@@ -1,0 +1,45 @@
+H1 {
+	text-align: center;
+	color: red;
+}
+
+p {
+	font-size: 30px;
+	color: green;
+}
+
+ol {
+	margin-top: 200px;
+  margin-bottom: 200px;
+  margin-right: 150px;
+  margin-left: 80px;
+  padding: 25px;
+  background-color: lightpink;
+	
+}
+
+.ol-li {
+  background-color: red;
+  margin: 5px;
+  margin-right: 3px;
+  padding: 1px;
+  padding-right: 2px;
+}
+
+ul {
+	list-style-image: url("./dj-mixer.png");
+	
+}
+.crossed {
+	list-style-image: url("./dj-mixer.png");
+	background-color: gray;
+	text-decoration: line-through;
+}
+
+#par2 {
+	color: blue;
+}
+.center {
+  text-align: center;
+  color: red;
+}
